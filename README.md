@@ -1,26 +1,148 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainsive&label=Profile%20views&color=0e75b6&style=flat" alt="zainsive" /> </p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=200&section=header&text=Muhammad%20Zain%20Khizar&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Technical%20SEO%20%7C%20CRO%20Specialist&descAlignY=55&descColor=2d6be4" width="100%"/>
 
-- 🔭 I’m currently working on **GetMXD**
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=800&color=2D6BE4&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Technical+SEO;Building+sites+that+rank+%2B+convert;WordPress+%C2%B7+Webflow+%C2%B7+Shopify+%C2%B7+React;Core+Web+Vitals+Optimization+Expert" alt="Typing animation showing Zain's key skills" />
 
-- 🌱 I’m currently learning **Python, AI, Machine Learning**
+<br/>
 
-- 💬 Ask me about **React Js, Node Js, Bootstrap, Flutter, Dart**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zain--khizar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-khizar)
+[![Email](https://img.shields.io/badge/Email-connect.zainkhizar%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.zainkhizar@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Makati%2C%20Metro%20Manila-1a73e8?style=for-the-badge)](https://linkedin.com/in/zain-khizar)
+[![Profile Views](https://komarev.com/ghpvc/?username=zain-khizar&style=for-the-badge&color=0a1628&label=Profile+Views)](https://github.com/zain-khizar)
 
-- 📫 How to reach me **zainkh210615@gmail.com**
+</div>
 
-- ⚡ Fun fact **I love to try new things everyday**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zain-khizar-0a3022189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zain-khizar-0a3022189" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadzain.zain.775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadzain.zain.775" height="30" width="40" /></a>
-<a href="https://instagram.com/zain_official8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zain_official8" height="30" width="40" /></a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm a **Frontend Developer & Technical SEO Specialist** with **5+ years** bridging code and search. Unlike typical SEO specialists, I fix issues directly in the codebase — not just flag them.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsive&show_icons=true&locale=en&layout=compact" alt="zainsive" /></p>
+- 🔧 I work across the full stack of web performance — from clean, responsive frontend development on **WordPress, Webflow, and Shopify**, to deep **technical SEO audits**, **Core Web Vitals** optimization, and **CRO** that turns traffic into results
+- 🚀 Currently building the **world's leading dispatch & scheduling platform** for construction companies at [Vizzn Inc](https://vizzn.com) (via VELZOSOFT)
+- 📍 Based in **Makati, Metro Manila** — open to remote projects worldwide
+- 🤝 Open to **freelance projects** and **full-time opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔍 SEO & Analytics
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-0a1628?style=flat-square&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=google&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-FF6550?style=flat-square&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=flat-square&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React_JS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro_JS-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+### 🌐 CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
+
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Dgraph](https://img.shields.io/badge/Dgraph-E75B2A?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zain-khizar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a1628&title_color=2d6be4&icon_color=2d6be4&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-khizar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a1628&title_color=2d6be4&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-khizar&theme=dark&hide_border=true&background=0a1628&ring=2d6be4&fire=2d6be4&currStreakLabel=2d6be4" alt="GitHub streak stats"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Role | Stack | Highlight |
+|---|---|---|---|
+| **[Vizzn Inc](https://vizzn.com)** | Full Stack Engineer | TypeScript · Dgraph · PubSub | Real-time dispatch platform for construction companies |
+| **[GetMXD.com](https://getmxd.com)** | Full Stack Developer | Vue.js · PostgreSQL | Grammy award-winning music platform |
+| **River Roofing** | Technical SEO · WordPress | WordPress · Schema · GA4 | Local SEO overhaul — Core Web Vitals & local pack optimization |
+| **CaddyCups.com** | WordPress Dev | WordPress · WooCommerce | Full e-commerce build from scratch |
+| **Bamrec (Canada)** | Backend Engineer | Node.js · REST API · Cloud | Platform infrastructure & API architecture |
+
+---
+
+## 🏆 Certifications
+
+- 🥇 **Building Scalable Java Microservices** — Google (Mar 2025)
+- 🥇 **Introduction to DevOps** — IBM (Feb 2024)
+- 🥇 **API Fundamentals Student Expert** — Postman (Dec 2021)
+- 🥇 **Microsoft Office Certified** — The Net Rider (Sep 2019)
+
+---
+
+## 💼 What I Do
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🔍  Technical SEO Audits    →  crawlability, schema,  │
+│                                  Core Web Vitals, hreflang │
+│                                                         │
+│   ⚡  Web Performance         →  LCP, CLS, INP, page    │
+│                                  speed optimization     │
+│                                                         │
+│   💻  Frontend Development    →  React, Next.js, Astro, │
+│                                  TypeScript, WordPress  │
+│                                                         │
+│   📈  CRO & Analytics         →  GA4, GSC, GTM,        │
+│                                  conversion optimization │
+│                                                         │
+│   🛒  E-commerce              →  Shopify, WooCommerce,  │
+│                                  Webflow                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📫 Let's Connect
+
+> *Building fast, visible, and high-converting websites — whether you're a business growing organic traffic, a brand rebuilding for search, or a team that needs a developer who thinks beyond the code.*
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-khizar)
+[![Email](https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.zainkhizar@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=100&section=footer&fontColor=ffffff" width="100%"/>
+</div>
