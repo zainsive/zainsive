@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:2d6be4&height=200&section=header&text=Muhammad%20Zain%20Khizar&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Technical%20SEO%20%E2%80%A2%20CRO&descAlignY=56&descSize=18" alt="Muhammad Zain Khizar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:2d6be4&height=200&section=header&text=Muhammad%20Zain%20Khizar&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Web%20Performance&descAlignY=56&descSize=18" alt="Muhammad Zain Khizar" />
 
 <a href="https://github.com/zainsive">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=800&color=2D6BE4&center=true&vCenter=true&width=640&lines=I+fix+SEO+in+the+codebase+%E2%80%94+not+just+the+audit;Core+Web+Vitals+%C2%B7+Schema+%C2%B7+Crawlability;React+%C2%B7+Next.js+%C2%B7+WordPress+%C2%B7+Shopify+%C2%B7+Webflow;Building+MCP+tools+for+SEO+%2B+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2D6BE4&center=true&vCenter=true&width=680&lines=%3E+Full-stack+TypeScript+engineer;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+Prisma;Python+tooling+%26+MCP+servers+for+AI+agents;Real-time+systems+with+Dgraph+%2B+PubSub;Type-safe+APIs+with+Zod%2C+tested+with+Jest;Shipping+fast%2C+crawlable%2C+Core-Web-Vitals-green+code" alt="Typing animation" />
 </a>
 
 <br/>
@@ -19,6 +19,19 @@
 ---
 
 ## 👋 About Me
+
+```typescript
+const zain = {
+  role: "Software Engineer — Frontend · Full-stack · Technical SEO",
+  location: "Makati, Metro Manila 🇵🇭 (remote worldwide)",
+  languages: ["TypeScript", "JavaScript", "Python", "PHP", "Dart"],
+  frontend: ["React", "Next.js", "Astro", "Vue", "Tailwind"],
+  backend: ["Node.js", "Express", "Laravel", "PostgreSQL", "Prisma", "Dgraph"],
+  tooling: ["Zod", "Jest", "PHPUnit", "Docker", "GitHub Actions", "uv"],
+  currentlyBuilding: ["Real-time dispatch @ Vizzn", "seo-analytics-mcp"],
+  philosophy: "Type-safe, tested, fast — and visible to search engines.",
+} as const;
+```
 
 I'm a **Frontend Developer & Technical SEO Specialist** with **5+ years** at the point where code meets search. Most SEO specialists hand you a report full of issues; I open the codebase and fix them.
 
