@@ -28,7 +28,7 @@ const zain = {
   frontend: ["React", "Next.js", "Astro", "Vue", "Tailwind"],
   backend: ["Node.js", "Express", "Laravel", "PostgreSQL", "Prisma", "Dgraph"],
   tooling: ["Zod", "Jest", "PHPUnit", "Docker", "GitHub Actions", "uv"],
-  currentlyBuilding: ["Real-time dispatch @ Vizzn", "seo-analytics-mcp"],
+  currentlyBuilding: ["SEOChoppers.com", "Open-source projects"],
   philosophy: "Type-safe, tested, fast — and visible to search engines.",
 } as const;
 ```
@@ -36,8 +36,8 @@ const zain = {
 I'm a **Frontend Developer & Technical SEO Specialist** with **5+ years** at the point where code meets search. Most SEO specialists hand you a report full of issues; I open the codebase and fix them.
 
 - 🔧 Frontend builds on **React, Next.js, WordPress, Webflow and Shopify**, paired with deep **technical SEO audits**, **Core Web Vitals** work and **CRO**
-- 🚀 Currently building a real-time **dispatch & scheduling platform** for construction companies at [Vizzn](https://vizzn.com) (via VELZOSOFT)
-- 🤖 Lately: building **MCP servers** so AI assistants like Claude can read real Search Console & GA4 data
+- 🚀 Currently building **[SEOChoppers.com](https://seochoppers.com)**
+- 🌱 Shipping **open-source projects**, like [seo-analytics-mcp](https://github.com/zainsive/seo-analytics-mcp), which lets AI assistants like Claude read real Search Console & GA4 data
 - 🤝 Open to **freelance projects** and **full-time remote roles**
 
 ---
@@ -140,6 +140,7 @@ uvx seo-analytics-mcp doctor
 
 | Project | Role | Stack | Highlight |
 |---|---|---|---|
+| **Civic IQ** | Senior Full Stack Engineer | Python · Generative AI · TypeScript · Google Cloud Platform | GenAI-powered platform built end-to-end on GCP |
 | **[Vizzn](https://vizzn.com)** | Full Stack Engineer | TypeScript · Dgraph · PubSub | Real-time dispatch platform for construction companies |
 | **[GetMXD](https://getmxd.com)** | Full Stack Developer | Vue.js · PostgreSQL | Grammy award-winning music platform |
 | **River Roofing** | Technical SEO · WordPress | WordPress · Schema · GA4 | Local SEO overhaul — Core Web Vitals & local pack |
